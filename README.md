@@ -1,6 +1,6 @@
 -  Hi, I’m @pepper999
-- I’m interested in classification and clustering
-- I’m currently learning clustering in python
+- I’m interested in machine learning
+- I’m currently learning machine learning in python
 -  How to reach me seheon5507@gmail.com
 
 <!---
